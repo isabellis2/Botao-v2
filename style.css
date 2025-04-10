@@ -14,6 +14,8 @@ button {
 
     border: .25em solid var(--glow-color);
     padding: 1em 3em;
-    color: var(--glow-color)
+    color: var(--glow-color);
+    cursor: pointer;
+    font-size: 15px;
 
 }
